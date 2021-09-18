@@ -1,14 +1,13 @@
 ## Useful learning links
 
-** Resources that really helped me a lot while learning to code over the past 3 years**
-
+**Resources that really helped me a lot while learning to code over the past 3 years**<br/>
 ### Part Time Larry - Data Analysis using python
-Has great videos going into working with apis, building websites, analysis on crypto/stocks, and much much more!
-https://www.youtube.com/c/parttimelarry
+Has great videos going into working with apis, building websites, analysis on crypto/stocks, and much much more!<br/>
+https://www.youtube.com/c/parttimelarry <br/>
 ## Nader Dabit - Web3 Full Stack Development using JavaScript
-Amazing tutorials building web3 apps
-https://www.youtube.com/c/naderdabit
+Amazing tutorials building web3 apps <br/>
+https://www.youtube.com/c/naderdabit <br/>
 ## Useful resources to learn coding
-https://www.youtube.com/c/TechWithTim - python learning
-https://www.youtube.com/c/PyTutorials - python learning
+https://www.youtube.com/c/TechWithTim - python learning <br/>
+https://www.youtube.com/c/PyTutorials - python learning <br/>
 https://sqlbolt.com/ - SQL tutorial
