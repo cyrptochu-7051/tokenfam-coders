@@ -1,6 +1,7 @@
 ## Useful learning links
 
-** Resources that really helped me a lot while learning to code over the past 3 years**\n
+** Resources that really helped me a lot while learning to code over the past 3 years**
+
 ### Part Time Larry - Data Analysis using python
 Has great videos going into working with apis, building websites, analysis on crypto/stocks, and much much more!
 https://www.youtube.com/c/parttimelarry
