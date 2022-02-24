@@ -1,7 +1,7 @@
 # Useful learning links
 
 **Resources that really helped me a lot while learning to code over the past 3 years**<br/>
-## For Begginners
+## For Beginners
 Great playlist to learn python and coding fundamentals<br/>
 https://www.youtube.com/watch?v=OFrLs22MDAw&list=PLzMcBGfZo4-mFu00qxl0a67RhjjZj3jXm
 ## Part Time Larry - Data Analysis using python
